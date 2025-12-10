@@ -1,28 +1,27 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfólio</title>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-</head>
-<body style="background-color: black">
- <header>
-<p style="color:black">LOVE YA AND I BE PRAYING FOR YA, GOD BLESS YOU</p>
-</header> 
-<div class="header" style="text-align: center; display:grid ;grid-column: auto; margin: 100px; margin-top: 200px;">
-  <div><h1 style = "margin-top:10px; color:red">DOK TRAZIM PUT</h1></div>
-  <div><h1 style = "margin-top:10px; color:red">PREMA SVJETU TVOM</h1></div>
-  <div><h1 style = "margin-top:20px; margin-bottom: 20px; color:red; font-style: bold; font-family: 'Franklin Gothic Medium'; font-size: 70px;">OSTAVI TRAG</h1></div>
-  <div><h2 style = "margin-top:10px; color:red">NA PUTU SVOM</h2>></div>
-  <div><h3 style = "margin-top:10px; color:red">KAD NISI TU</h3></div>
-  <div><h2 style = "margin-top:10px; color:red">SUNCE GUBI SVOJ SJAJ</h2>></div>
-</div>
-<footer>
-  <div class="text-center text-white p-3" style="margin-top: 400px"">
-    © 2024 Copyright:
-    <a class="text-white">PRAY WITH THE HOOLIGANS</a>
-  </div>
-</footer>
-</body>
-</html>
+# Olá, sou o Paulo! 👋
+
+### Desenvolvedor Back-End .NET em formação
+
+Sou estudante de **Ciência da Computação** apaixonado por transformar lógica em soluções. Trago na bagagem a experiência de **Analista de Suporte**, o que me deu uma visão privilegiada sobre dores do usuário e qualidade de software.
+
+Atualmente, estou focado em construir uma base sólida em **C#** e **SQL** antes de mergulhar em arquiteturas de API.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 Minha Jornada
+
+- 🟢 **Dominado:** Lógica de Programação, Git Básico, SQL.
+- 🟡 **Estudando:** C# Avançado (Exceções, Debugging, POO).
+- 🔴 **Próxima Parada:** ASP.NET Core & Azure.
+
+---
+_“Software engineering is programming integrated over time.”_
