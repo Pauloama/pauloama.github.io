@@ -26,5 +26,29 @@ Atualmente, estou focado em aprofundar meus conhecimentos em ASP.NET e React, bu
 - 🟢 **Dominado:** .NET, ASP.NET, Entity Framework, Git, SQL, MySQL, SQLite, SQL Server.
 - 🟡 **Estudando:** Azure Cloud & AI, React/React Native.
 
+### Projetos
+- **Tech Store(https://github.com/Pauloama/tech-store):** O projeto consiste em uma API RESTful em .NET simulando um backend de e-commerce e uma aplicação Frontend em React para interação do usuário.
+## Backend
+- **.NET 8 (C#)**
+- **Entity Framework Core** (ORM)
+- **SQLite** (Banco de dados relacional)
+- **AutoMapper** (Mapeamento Entidade-DTO)
+- **Repository Pattern** (Abstração de acesso a dados)
+- **Swagger/OpenAPI** (Documentação da API)
+
+## Frontend
+- **React (Vite)**
+- **Axios** (Consumo de API)
+- **React Toastify** (Feedback visual/Notificações)
+- **Lucide React** (Ícones)
+- **CSS Modules/Grid** (Estilização responsiva)
+- 
+- **Biblioteca API:
+- **C# / .NET 8**
+* **Entity Framework Core**
+* **AutoMapper**
+* **JWT (JSON Web Token)**
+* **Swagger (OpenAPI)**
+
 ---
 _“Software engineering is programming integrated over time.”_
